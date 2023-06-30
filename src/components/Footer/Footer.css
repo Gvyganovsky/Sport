@@ -1,0 +1,27 @@
+/*.Footer-container{*/
+/*    position: relative;*/
+/*}*/
+
+/*.Footer-container{*/
+/*    border: 1px solid var(--lightgray);*/
+/*}*/
+
+/*.footer{*/
+/*    padding: 1rem 2rem;*/
+/*    display: flex;*/
+/*}*/
+
+.Footer-container {
+    text-align: center;
+}
+
+.footer {
+    margin: 10rem;
+    display: flex;
+    justify-content: center;
+}
+
+.footer>img {
+    width: 40px;
+    margin: 0 10px; /* Добавляем небольшой отступ между картинками */
+}
